@@ -1,0 +1,17 @@
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Parcial_3_Actividad_2.exe
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Parcial_3_Actividad_2.deps.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Parcial_3_Actividad_2.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Parcial_3_Actividad_2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Parcial_3_Actividad_2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_.CFAB7D6D.Up2Date
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\refint\Parcial_3_Actividad_2.dll
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.pdb
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\Parcial_3_Actividad_2.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\HPA III\Parcial3\Parcial_3_Actividad_2\Parcial_3_Actividad_2\obj\Debug\net10.0\ref\Parcial_3_Actividad_2.dll
